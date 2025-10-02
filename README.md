@@ -12,7 +12,7 @@ Below is how to patch app. You don't have to read!!
 
 Shizuku (PlayStore) or ADB (PC. https://dl.google.com/android/repository/platform-tools-latest-windows.zip?hl=ko)
 
-LSPatch (https://github.com/JingMatrix/LSPatch). Official version is outdated.
+LSPatch(forked by JingMatrix) (https://github.com/JingMatrix/LSPatch). Official version is outdated.
 
 Xposed (https://github.com/VarunS2002/Xposed-Disable-FLAG_SECURE)
 
