@@ -22,17 +22,15 @@ Xposed (https://github.com/VarunS2002/Xposed-Disable-FLAG_SECURE)
 ```
 C:\adb\adb shell sh /storage/emulated/0/Android/data/moe.shizuku.privileged.api/start.sh
 ```
- with administor shell. 
- 
- In mobile, follow the guide.
+ with administor shell. In mobile, follow the guide in app.
 
-3. LsPatch - manage (second tab at the bottom) - select app
+2. LsPatch - manage (second tab at the bottom) - select app
 
-4. Combined(통합) - Include module(모듈 포함) - select Xposed
+3. Combined(통합) - Include module(모듈 포함) - select Xposed
 
-5. Check overlay version code(버전 코드 덮어씌우기)
+4. Check overlay version code(버전 코드 덮어씌우기)
 
-6. Patch and install
+5. Patch and install
 
 ### Other ADB commands
 
