@@ -4,6 +4,11 @@ latest: https://github.com/min09357/SNU_app_capture_unlocked/releases/latest
 
 Just download and install apk file.
 
+It would be useful to add this repository to Obtainium.
+
+
+
+
 Below is how to patch app. You don't have to read!!
 
 ## How to patch?
