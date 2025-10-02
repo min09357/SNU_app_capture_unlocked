@@ -46,7 +46,7 @@ https://github.com/ericswpark/camsung/releases
 adb install --bypass-low-target-sdk-block app-release.apk
 ```
 
-##### Manual
+##### Manually
 
 ```
 adb shell settings put system csc_pref_camera_forced_shuttersound_key 0
