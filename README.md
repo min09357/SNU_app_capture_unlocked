@@ -27,3 +27,16 @@ Xposed (https://github.com/VarunS2002/Xposed-Disable-FLAG_SECURE)
 4. Check overlay version code(버전 코드 덮어씌우기)
 
 5. Patch and install
+
+### Other ADB commands
+
+#### Camsung
+
+https://github.com/ericswpark/camsung/releases
+
+```
+adb install --bypass-low-target-sdk-block app-release.apk
+```
+
+
+
