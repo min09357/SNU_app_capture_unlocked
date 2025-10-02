@@ -4,7 +4,7 @@ latest: https://github.com/min09357/SNU_app_capture_unlocked/releases/latest
 
 Just download and install apk file.
 
-Below is how to patch app. Don't have to read!!
+Below is how to patch app. You don't have to read!!
 
 ## How to patch?
 
