@@ -59,3 +59,5 @@ adb shell settings put system csc_pref_camera_forced_shuttersound_key 0
 ```
 adb shell settings put system screen_off_timeout 1800000
 ```
+
+
