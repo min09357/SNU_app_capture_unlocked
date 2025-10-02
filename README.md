@@ -34,7 +34,11 @@ C:\adb\adb shell sh /storage/emulated/0/Android/data/moe.shizuku.privileged.api/
 
 ### Other ADB commands
 
-#### Camsung
+Can use shell in Android by install adb shell in playstore
+
+#### Camera shutter off
+
+##### Camsung (Recommended)
 
 https://github.com/ericswpark/camsung/releases
 
@@ -42,5 +46,16 @@ https://github.com/ericswpark/camsung/releases
 adb install --bypass-low-target-sdk-block app-release.apk
 ```
 
+##### Manual
 
+```
+adb shell settings put system csc_pref_camera_forced_shuttersound_key 0
+```
 
+#### Screen off timeout
+
+1800000 ms (30 min)
+
+```
+adb shell settings put system screen_off_timeout 1800000
+```
