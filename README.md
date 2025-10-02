@@ -18,15 +18,21 @@ Xposed (https://github.com/VarunS2002/Xposed-Disable-FLAG_SECURE)
 
 ### Patch
 
-1. Activate shizuku. In PC, C:\adb\adb shell sh /storage/emulated/0/Android/data/moe.shizuku.privileged.api/start.sh with administor shell. In mobile, follow the guide.
+1. Activate shizuku. In PC,
+```
+C:\adb\adb shell sh /storage/emulated/0/Android/data/moe.shizuku.privileged.api/start.sh
+```
+ with administor shell. 
+ 
+ In mobile, follow the guide.
 
-2. LsPatch - manage (second tab at the bottom) - select app
+3. LsPatch - manage (second tab at the bottom) - select app
 
-3. Combined(통합) - Include module(모듈 포함) - select Xposed
+4. Combined(통합) - Include module(모듈 포함) - select Xposed
 
-4. Check overlay version code(버전 코드 덮어씌우기)
+5. Check overlay version code(버전 코드 덮어씌우기)
 
-5. Patch and install
+6. Patch and install
 
 ### Other ADB commands
 
