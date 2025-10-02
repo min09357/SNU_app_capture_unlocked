@@ -18,7 +18,7 @@ Xposed (https://github.com/VarunS2002/Xposed-Disable-FLAG_SECURE)
 
 ### Patch
 
-1. Activate shizuku. In PC, C:\adb\adb shell sh /storage/emulated/0/Android/data/moe.shizuku.privileged.api/start.sh. In mobile, follow the guide.
+1. Activate shizuku. In PC, C:\adb\adb shell sh /storage/emulated/0/Android/data/moe.shizuku.privileged.api/start.sh with administor shell. In mobile, follow the guide.
 
 2. LsPatch - manage (second tab at the bottom) - select app
 
